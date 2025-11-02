@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 2000" width="2000" height="2000">
+	<style>
+		.s0 { fill: #121212 } 
+		.s1 { fill: #2fb4ff;stroke: #2fb4ff;paint-order:stroke fill markers;stroke-linecap: round;stroke-linejoin: round;stroke-width: 300 } 
+		.s2 { fill: #2fb4ff;stroke: #2fb4ff;paint-order:stroke fill markers;stroke-linecap: round;stroke-linejoin: round;stroke-width: 0 } 
+	</style>
+	<path id="Path 0" class="s0" d="m0 1000v1000h2000v-2000h-2000z"/>
+	<g id="Folder 1">
+		<path id="Shape 1" fill-rule="evenodd" class="s1" d="m480 695.5l3.86-1.78 281.78 612-3.87 1.78z"/>
+		<path id="Shape 1 copy" fill-rule="evenodd" class="s1" d="m914.35 695.5l3.86-1.78 281.78 612-3.87 1.78z"/>
+		<path id="Shape 2" fill-rule="evenodd" class="s2" d="m1370.28 840.51c-82.54 0-149.25-66.72-149.25-149.25 0-82.54 66.71-149.26 149.25-149.26 82.54 0 149.26 66.72 149.26 149.26 0 82.53-66.72 149.25-149.26 149.25z"/>
+	</g>
+</svg>

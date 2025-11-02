@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs></defs>
+  <rect x="32" y="32" width="448" height="448" rx="96" fill="#000"/>
+  <rect x="56" y="56" width="400" height="400" rx="84" fill="#0a0a0a" stroke="#141414"/>
+  <!-- WF monogram in #2fb4ff -->
+  <g fill="#2fb4ff" opacity="0.98">
+    <path d="M120 330l28-148h48l24 88l24-88h48l28 148h-44l-14-88l-26 88h-32l-26-88l-14 88h-44z"/>
+    <rect x="336" y="198" width="40" height="132" rx="8"/>
+  </g>
+</svg>
